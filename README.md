@@ -4,7 +4,7 @@
 👀 Interested in **VLSI Design**, **Embedded Systems**, and **Digital Logic**  
 🤖 I love working on **robotic projects**, especially Robo Soccer & Robo Sumo bots  
 💞️ Looking to collaborate on **Verilog**, **FPGA designs**, and **LTspice/CMOS projects**  
-📫 Reach me at: **sameerashaik@example.com** *(replace with your email)*  
+📫 Reach me at: meera438sk@gmail.com  
 😄 Pronouns: **She/Her**  
 ⚡ Fun fact: I once made a single robot chassis play tug of war, soccer, and sumo!
 ---
